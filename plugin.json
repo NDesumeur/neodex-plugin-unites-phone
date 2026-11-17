@@ -1,0 +1,26 @@
+{
+  "id": "neodex.unites",
+  "name": "Unités",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Un convertisseur d'unités en 19 catégories : longueur, masse, volume, surface, temps, vitesse, température, pression, énergie, puissance, données, débit internet, consommation, cuisine, pointure, monnaies et plus. La valeur s'affiche dans l'unité choisie et dans toutes les autres à la fois ; 31 devises aux taux du jour de la Banque centrale européenne. Textes et tableau plus grands, onglets des catégories qui passent à la ligne sans se chevaucher, colonnes selon la taille de l'écran.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "unites",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "aucune",
+  "syncInfo": "Rien : les taux de change sont demandés à l'ouverture.",
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage",
+    "network:api.frankfurter.dev"
+  ]
+}
