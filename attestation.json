@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.unites",
+  "repo": "NDesumeur/neodex-plugin-unites-phone",
+  "version": "1.0.0",
+  "sha256": "ff0f8be71a5bfae442bf9b97d8bafded7bd0ffadb8ae0629f54d585d05f3a7f9",
+  "approvedAt": "2026-11-17T18:40:03.595Z",
+  "neobase": ">=4.0.0",
+  "signature": "CTKWeh7wuTMrW9CaBIJnc/WhRQol+nwr5H3d2UATz7Cu4whKUzh89GIsiK4vsR9UoTF2ccfcy+h2dtY3rcXkAA=="
+}
